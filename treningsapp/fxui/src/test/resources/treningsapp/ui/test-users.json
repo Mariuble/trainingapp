@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "name": "Valid_user",
+            "password": "Valid_password",
+            "sessions": [
+                {
+                    "title": "Bakkeløp",
+                    "startDate": "2020-07-07T14:53",
+                    "endDate": "2020-08-07T15:53"
+                },
+                {
+                    "title": "skitur",
+                    "startDate": "2019-08-07T14:53",
+                    "endDate": "2019-08-07T15:53"
+                }
+            ]
+        },
+        {
+            "name": "Kari",
+            "password": "Nordmann",
+            "sessions": [
+                {
+                    "title": "løpetur",
+                    "startDate": "2020-07-07T14:53",
+                    "endDate": "2020-08-07T15:53"
+                },
+                {
+                    "title": "skitur",
+                    "startDate": "2019-08-07T14:53",
+                    "endDate": "2019-08-07T15:53"
+                }
+            ]
+        }
+    ]
+}
